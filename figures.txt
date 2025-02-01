@@ -1,0 +1,42 @@
+1.1-Familles des convertisseurs statiques
+1.2.-principe de fonctionnement d’un convertisseur DC/DC
+1.3.-Schems électrique de principe de fonctionnement de hacheur Buck associé a de commutateurs 
+1.4- principe de fonctionnement associé à un  hacheur Boost 
+1.5- Principe de fonctionnement d’un convertisseur AC/AC
+1.6- Structure d’un Gradateur 
+1.7- Principe de fonctionnement d’un convertisseur AC/DC
+1.8- Redresseurs triphasés. (a) P3. (b) PD3. (c) S3
+1.9- Principe de fonctionnement d’un convertisseur DC/AC
+1.10- Un accumulateur avec dispositif de charge et un onduleur avec sortie filtrée
+1.11-Principe d’onduleur autonome
+-----------------------------
+II.1-interrupteurs parfaits
+II.2-Diode polarisée en direct 
+II.3-Diode polarisée en inverse  
+II.4-Transistor NPN  
+II.5-Transistor PNP  
+II.6-les 2 états de Transistor 
+II.7-symbole de MOSFET 
+II.8-symbole d’IGBT
+II.9- Comparaison entre MOSFET et IGBT
+II.10-symbole de thyristor
+II.11-Principe de fonctionnement de l’onduleur
+II.12- Onduleur de tension monophasé a demi-pont
+II.13- Chronogramme de tension Uc
+II.14- Chronogramme : cas de charge inductive
+II.15- La topologie de l'onduleur monophasé en demi- pont 
+II.16- Principe de l'onduleur monophasé en demi- pont 
+II.17- Chronogrammes pour une charge RL
+II.18- Structure de base de l'onduleur de tension en pont
+II.19- Circuit de l’onduleur monophasé en pont 
+II.20- Chronogramme de la tension Uc
+II.21- La topologie de l'onduleur monophasé en  pont 
+II.22- Chronogrammes pour une charge RL
+II.23- Principe de la Commande décalée
+II.24- Chronogramme de la tension Uc
+II.25- l’allure de Uceff
+II.26- Chronogrammes pour une charge RL
+II.27- La commande MLI 
+
+
+
